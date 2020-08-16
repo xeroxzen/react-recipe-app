@@ -5,7 +5,7 @@
 
 .App {
   min-height: 100vh;
- background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+ background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
 }
 
 .search-form {
@@ -16,8 +16,9 @@
 }
 
 .search-bar {
-  width: 50%;
+  width: 30%;
   border: none;
+  color:rgb(12, 176, 182);
   padding: 10px;
 }
 
@@ -26,6 +27,7 @@
   border: none;
   padding: 10px 20px;
   color: #ffff;
+  margin-left:10px;
 }
 
 .recipes {
