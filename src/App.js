@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
 import Recipe from "./Recipe";
-import style from "./app.module.css";
+// import style from "./app.module.css";
 
 const App = () => {
   const APP_ID = "64958b81";
